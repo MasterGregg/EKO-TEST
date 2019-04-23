@@ -5,7 +5,9 @@ node ekotest.js
 
 # Run on web browser
 1/ Go to https://repl.it/languages/nodejs
+
 2/ Copy/Past ekotest.js content
+
 3/ Run
 
 # Preview output
