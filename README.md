@@ -4,7 +4,7 @@ Hi :)
 node ekotest.js
 
 # Run on web browser
-1/ Run here : https://repl.it/repls/KlutzyDryBackup
+Run and see output here : https://repl.it/repls/KlutzyDryBackup
 
 # Preview output
 # task 1
