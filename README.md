@@ -10,6 +10,8 @@ node ekotest.js
 
 3/ Run
 
+4/ Result link : https://repl.it/repls/KlutzyDryBackup
+
 # Preview output
 # task 1
 
